@@ -1,5 +1,4 @@
-<h1> Hello world <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> , I'm Danton Soares </h1>
-
+<h1> Hello world, I'm Danton Soares <img src="https://media.tenor.com/I6d77-2LEsUAAAAi/puglie-pug-puglie.gif" height="60px"></h1>
 **`Digital Craftsman (Software developer | Videomaker | Coffee connoisseur)`**
 <!--
 **Danton1/Danton1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
