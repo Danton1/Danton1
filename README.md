@@ -1,4 +1,6 @@
-<h1> Hello world, I'm Danton Soares <img src="https://media.tenor.com/I6d77-2LEsUAAAAi/puglie-pug-puglie.gif" height="60px"></h1>
+<div>
+  <h1>Hello world, I'm Danton Soares</h1> <img src="https://media.tenor.com/I6d77-2LEsUAAAAi/puglie-pug-puglie.gif" align="right" width="20%">
+</div>
 
 **`Digital Craftsman (Software developer | Videomaker | Coffee connoisseur)`**
 
