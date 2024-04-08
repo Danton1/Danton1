@@ -7,6 +7,8 @@
 I'm a passionate and enthusiastic Software Developer, looking to change the world through the use of technology.
 
 - 📚 I am currently studying Computer Systems Technology at BCIT, Vancouver, Canada.
+- 🚀 Check out my portfolio: [dantonsoares.com](https://dantonsoares.com)
+- ⚡ Currently looking for co-op opportunities
 <!--
 **Danton1/Danton1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
